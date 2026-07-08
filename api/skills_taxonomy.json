@@ -1,0 +1,82 @@
+{
+  "programming_languages": [
+    "Python", "Java", "JavaScript", "TypeScript", "C++", "C#", "C", "Go", "Rust",
+    "Ruby", "PHP", "Swift", "Kotlin", "Scala", "R", "MATLAB", "Perl", "Objective-C",
+    "Dart", "Shell Scripting", "Bash", "PowerShell", "VBA", "Solidity", "Julia", "Elixir"
+  ],
+  "web_frontend": [
+    "HTML", "CSS", "React", "Angular", "Vue.js", "Next.js", "Svelte", "Redux",
+    "Tailwind CSS", "Bootstrap", "jQuery", "Webpack", "SASS", "LESS", "Gatsby",
+    "Ember.js", "Three.js", "D3.js", "GraphQL", "Web Components"
+  ],
+  "web_backend": [
+    "Node.js", "Express.js", "Django", "Flask", "FastAPI", "Spring Boot", "Ruby on Rails",
+    "ASP.NET", "Laravel", "NestJS", "GraphQL API", "REST API", "gRPC", "Microservices",
+    "WebSockets", "Nginx", "Apache"
+  ],
+  "data_ml": [
+    "Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision",
+    "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "Pandas", "NumPy", "SciPy",
+    "XGBoost", "LightGBM", "Hugging Face", "OpenCV", "Reinforcement Learning",
+    "Neural Networks", "Data Mining", "Feature Engineering", "Model Deployment",
+    "MLOps", "A/B Testing", "Statistical Analysis", "Time Series Analysis",
+    "Recommendation Systems", "Predictive Modeling", "Data Wrangling", "Spark MLlib",
+    "Generative AI", "LLM", "Prompt Engineering", "Vector Databases", "NLTK", "SpaCy"
+  ],
+  "data_engineering": [
+    "SQL", "NoSQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Cassandra",
+    "Apache Spark", "Apache Kafka", "Apache Airflow", "Hadoop", "ETL", "Data Warehousing",
+    "Snowflake", "Redshift", "BigQuery", "dbt", "Data Modeling", "Data Pipelines",
+    "Databricks", "Delta Lake", "Elasticsearch", "DynamoDB", "SQLite", "MariaDB",
+    "Data Lake", "Batch Processing", "Stream Processing"
+  ],
+  "bi_analytics": [
+    "Tableau", "Power BI", "Looker", "Excel", "Google Analytics", "Data Visualization",
+    "QlikView", "SAS", "SPSS", "Google Data Studio", "Metabase", "KPI Reporting",
+    "Dashboarding", "Business Intelligence", "Google Sheets", "Amplitude", "Mixpanel"
+  ],
+  "cloud_devops": [
+    "AWS", "Azure", "Google Cloud Platform", "Docker", "Kubernetes", "Terraform",
+    "Jenkins", "CI/CD", "GitLab CI", "GitHub Actions", "Ansible", "CloudFormation",
+    "Serverless", "Lambda", "EC2", "S3", "Cloud Functions", "Helm", "Prometheus",
+    "Grafana", "Datadog", "Linux Administration", "Vagrant", "Chef", "Puppet",
+    "Site Reliability Engineering", "Infrastructure as Code", "VPC", "Load Balancing"
+  ],
+  "tools_platforms": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "Jira", "Confluence", "Postman",
+    "VS Code", "IntelliJ", "Slack", "Trello", "Figma", "Notion", "Docker Compose",
+    "Kubernetes Helm", "Salesforce", "SAP", "ServiceNow", "Zendesk"
+  ],
+  "testing_qa": [
+    "Unit Testing", "Integration Testing", "Selenium", "Cypress", "Jest", "PyTest",
+    "JUnit", "Test Automation", "Quality Assurance", "TDD", "BDD", "Load Testing",
+    "Postman Testing", "Mocha", "Cucumber"
+  ],
+  "security": [
+    "Cybersecurity", "Penetration Testing", "OWASP", "Network Security", "Encryption",
+    "Identity and Access Management", "SIEM", "Vulnerability Assessment", "OAuth",
+    "Firewall Management", "Compliance", "GDPR", "SOC 2"
+  ],
+  "project_management": [
+    "Agile", "Scrum", "Kanban", "Project Management", "Product Management",
+    "Stakeholder Management", "Roadmapping", "Sprint Planning", "Risk Management",
+    "Budgeting", "PMP", "SAFe", "OKRs"
+  ],
+  "soft_skills": [
+    "Communication", "Leadership", "Teamwork", "Problem Solving", "Critical Thinking",
+    "Time Management", "Adaptability", "Collaboration", "Creativity",
+    "Attention to Detail", "Conflict Resolution", "Mentoring", "Public Speaking",
+    "Negotiation", "Decision Making", "Emotional Intelligence", "Analytical Thinking",
+    "Presentation Skills", "Cross-functional Collaboration", "Customer Service"
+  ],
+  "mobile": [
+    "iOS Development", "Android Development", "React Native", "Flutter", "SwiftUI",
+    "Jetpack Compose", "Xamarin", "Mobile App Development"
+  ],
+  "other_technical": [
+    "Blockchain", "IoT", "Embedded Systems", "Robotics", "AR/VR", "Game Development",
+    "Unity", "Unreal Engine", "API Design", "System Design", "Distributed Systems",
+    "Design Patterns", "Object-Oriented Programming", "Functional Programming",
+    "Algorithm Design", "Data Structures", "Version Control", "Technical Writing"
+  ]
+}
