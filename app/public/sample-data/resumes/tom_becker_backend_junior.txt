@@ -1,0 +1,28 @@
+Tom Becker
+Junior Backend Developer
+tom.becker.demo@example.com | (555) 330-7712 | Portland, OR
+
+SUMMARY
+Junior backend developer with 1 year of professional experience and a bootcamp
+background in Python web development. Passionate about building clean APIs and
+learning cloud infrastructure.
+
+EXPERIENCE
+
+Junior Backend Developer, Pinecone Apps — Sep 2024 - Present
+- Build small REST API endpoints using Flask under senior engineer guidance
+- Write basic unit tests with pytest
+- Assist with bug fixes in a Django-based internal admin tool
+- Learning Docker and AWS basics through internal training
+
+Freelance Web Developer — Jan 2023 - Aug 2024
+- Built simple websites and small backend scripts in Python and JavaScript for
+  local small business clients
+- Used SQLite for lightweight data storage
+
+SKILLS
+Python, Flask, Django, JavaScript, SQLite, Git, pytest, Problem Solving,
+Communication
+
+EDUCATION
+Full-Stack Web Development Diploma, Code Bridge Bootcamp — 2023

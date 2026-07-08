@@ -1,0 +1,33 @@
+Priya Sharma
+Senior Data Analyst
+priya.sharma.demo@example.com | (555) 019-2837 | Chicago, IL
+
+SUMMARY
+Senior Data Analyst with 6+ years of experience turning messy business data into
+clear, actionable insights for retail and e-commerce companies. Deep expertise in
+SQL, Tableau, and statistical analysis, with a track record of driving measurable
+improvements in marketing ROI and operational efficiency.
+
+EXPERIENCE
+
+Senior Data Analyst, Meridian Retail Group — Jan 2021 - Present
+- Led a team of 3 analysts building executive dashboards in Tableau and Power BI
+- Wrote complex SQL queries against a 50TB Snowflake data warehouse
+- Designed and analyzed A/B tests for pricing strategy, increasing margin by 4%
+- Automated weekly reporting pipelines using Python (Pandas) and dbt
+- Presented quarterly business reviews to VP-level stakeholders
+
+Data Analyst, Lakeside Commerce — Jun 2018 - Dec 2020
+- Built and maintained KPI dashboards in Power BI for the operations team
+- Performed exploratory data analysis using Excel and Python (NumPy, Pandas)
+- Partnered with marketing to analyze campaign performance via Google Analytics
+- Cleaned and validated datasets from multiple ETL sources
+
+SKILLS
+SQL, Python, Pandas, NumPy, Excel, Tableau, Power BI, Google Analytics, A/B Testing,
+Statistical Analysis, Data Visualization, dbt, Snowflake, Communication, Presentation
+Skills, Critical Thinking, Stakeholder Management
+
+EDUCATION
+Master of Science in Data Science, University of Illinois — 2018
+Bachelor of Science in Economics, University of Michigan — 2016

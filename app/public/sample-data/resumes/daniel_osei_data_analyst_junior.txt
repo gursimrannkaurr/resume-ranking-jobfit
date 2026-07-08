@@ -1,0 +1,27 @@
+Daniel Osei
+Data Analyst
+daniel.osei.demo@example.com | (555) 401-8823 | Austin, TX
+
+SUMMARY
+Recent graduate and junior data analyst with 1.5 years of hands-on experience in
+SQL and Excel-based reporting. Eager to grow into a BI-focused role, with a strong
+foundation in statistics and data visualization from academic and internship work.
+
+EXPERIENCE
+
+Data Analyst, BrightPath Analytics — Jun 2024 - Present
+- Write SQL queries to extract and summarize customer transaction data
+- Build simple dashboards in Excel and Power BI for the sales team
+- Assist senior analysts with data cleaning and validation tasks
+- Learning Tableau and Python for future dashboard automation projects
+
+Data Analyst Intern, CityWorks Insights — Jan 2024 - May 2024
+- Supported the analytics team with Excel-based ad hoc reporting
+- Helped compile survey data into summary statistics for city planning reports
+
+SKILLS
+SQL, Excel, Power BI, Statistical Analysis, Communication, Teamwork,
+Attention to Detail, Time Management
+
+EDUCATION
+Bachelor of Arts in Economics, University of Texas at Austin — 2023

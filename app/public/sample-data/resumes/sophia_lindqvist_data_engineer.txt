@@ -1,0 +1,30 @@
+Sophia Lindqvist
+Data Engineer
+sophia.lindqvist.demo@example.com | (555) 662-9981 | New York, NY
+
+SUMMARY
+Data Engineer with 4.5 years of experience designing ETL pipelines and data
+warehouses for high-growth analytics teams. Strong SQL and Python skills with
+hands-on experience across the modern data stack.
+
+EXPERIENCE
+
+Data Engineer, Alpine Analytics — Oct 2021 - Present
+- Designed and maintained ETL pipelines using Apache Airflow and dbt
+- Built a Snowflake data warehouse serving 30+ internal analysts
+- Wrote complex SQL transformations and optimized query performance
+- Used Python (Pandas, PySpark) for large-scale batch data processing
+- Partnered with data analysts to expose clean, documented data marts
+
+Data Engineer, Fjord Data Systems — Jan 2020 - Sep 2021
+- Built data pipelines using Apache Spark and Kafka for streaming ingestion
+- Migrated legacy MySQL databases to a PostgreSQL-based warehouse
+- Implemented data quality checks and monitoring for pipeline reliability
+
+SKILLS
+SQL, Python, Pandas, Apache Airflow, Apache Spark, Apache Kafka, dbt, Snowflake,
+PostgreSQL, MySQL, ETL, Data Warehousing, Data Pipelines, Data Modeling,
+Communication, Problem Solving
+
+EDUCATION
+Bachelor of Science in Computer Science, New York University — 2019

@@ -1,0 +1,40 @@
+Job Title: Data Analyst
+Company: Northwind Retail Analytics
+Location: Remote (US)
+
+About the Role:
+We are seeking a Data Analyst to join our Business Intelligence team. You will work
+closely with marketing, operations, and finance stakeholders to turn raw data into
+actionable insights. The ideal candidate has 3+ years of experience working with SQL,
+Excel, and BI tools, and is comfortable presenting findings to non-technical audiences.
+
+Responsibilities:
+- Write and optimize SQL queries against large relational databases
+- Build and maintain dashboards in Tableau and Power BI
+- Perform exploratory data analysis using Python (Pandas, NumPy) or R
+- Partner with stakeholders to define KPIs and reporting requirements
+- Conduct A/B testing and statistical analysis to support product decisions
+- Clean and validate datasets from multiple sources (ETL pipelines)
+- Present findings and recommendations to leadership
+
+Required Qualifications:
+- Bachelor's degree in Statistics, Economics, Computer Science, or related field
+- 3+ years of experience in a data analyst or business intelligence role
+- Strong proficiency in SQL and Excel
+- Experience with data visualization tools such as Tableau or Power BI
+- Working knowledge of Python or R for data analysis
+- Familiarity with statistical analysis and A/B testing methodology
+- Excellent communication and presentation skills
+- Strong attention to detail and analytical thinking
+
+Preferred Qualifications:
+- Experience with Google Analytics or Amplitude
+- Exposure to data warehousing concepts (Snowflake, BigQuery, Redshift)
+- Experience with dbt or other ETL/ELT tools
+- Master's degree in a quantitative field
+
+What We Offer:
+- Competitive salary and equity
+- Remote-first culture with flexible hours
+- Learning and development budget
+- Health, dental, and vision insurance

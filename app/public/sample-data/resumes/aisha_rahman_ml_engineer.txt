@@ -1,0 +1,31 @@
+Aisha Rahman
+Machine Learning Engineer
+aisha.rahman.demo@example.com | (555) 774-2290 | Boston, MA
+
+SUMMARY
+Machine Learning Engineer with 5 years of experience building and deploying ML
+models for recommendation systems and NLP applications. Strong background in
+Python, TensorFlow, and MLOps practices.
+
+EXPERIENCE
+
+Machine Learning Engineer, Cortex AI Labs — Apr 2021 - Present
+- Built recommendation systems using collaborative filtering and deep learning
+- Trained and deployed NLP models with Hugging Face and PyTorch
+- Built MLOps pipelines for model deployment using Docker and Kubernetes on AWS
+- Ran A/B tests to validate model impact on user engagement metrics
+- Wrote production Python services exposing models via FastAPI
+
+Data Scientist, Quanta Insights — Jul 2019 - Mar 2021
+- Built predictive models using scikit-learn and XGBoost for churn prediction
+- Performed feature engineering and statistical analysis on large datasets
+- Used SQL and Pandas for data extraction and cleaning
+
+SKILLS
+Python, TensorFlow, PyTorch, Scikit-learn, XGBoost, Hugging Face, NLP,
+Machine Learning, Deep Learning, MLOps, FastAPI, Docker, Kubernetes, AWS,
+SQL, Pandas, A/B Testing, Feature Engineering, Data Visualization
+
+EDUCATION
+Master of Science in Computer Science, Boston University — 2019
+Bachelor of Science in Mathematics, Northeastern University — 2017
