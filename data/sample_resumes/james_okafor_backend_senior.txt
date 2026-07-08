@@ -1,0 +1,34 @@
+James Okafor
+Senior Backend Engineer
+james.okafor.demo@example.com | (555) 217-9034 | San Francisco, CA
+
+SUMMARY
+Senior Backend Engineer with 7 years of experience designing and scaling
+microservices on AWS and Kubernetes. Deep expertise in Python, PostgreSQL, and
+distributed systems, with a strong record of leading platform reliability
+initiatives.
+
+EXPERIENCE
+
+Senior Backend Engineer, Vertex Cloud Systems — Mar 2021 - Present
+- Designed RESTful and gRPC APIs using FastAPI serving 10M+ daily requests
+- Led migration of monolith to microservices architecture on Kubernetes
+- Optimized PostgreSQL queries and introduced Redis caching, cutting latency 40%
+- Built CI/CD pipelines with GitHub Actions and Terraform for infrastructure as code
+- Mentored junior engineers and led on-call incident response
+- Set up monitoring with Prometheus and Grafana
+
+Backend Engineer, DataForge Inc — Jul 2018 - Feb 2021
+- Built microservices in Python (Django, Flask) deployed via Docker on AWS
+- Implemented Kafka-based event streaming between services
+- Wrote unit and integration tests with pytest, maintaining 90%+ coverage
+- Collaborated with DevOps on infrastructure automation using Ansible
+
+SKILLS
+Python, FastAPI, Django, Flask, PostgreSQL, Redis, Docker, Kubernetes, AWS,
+Kafka, Terraform, GitHub Actions, Jenkins, REST API, Microservices, gRPC,
+GraphQL, pytest, Prometheus, Grafana, Git, Leadership, Mentoring
+
+EDUCATION
+Master of Science in Computer Science, Georgia Institute of Technology — 2017
+Bachelor of Science in Computer Engineering, University of Lagos — 2015

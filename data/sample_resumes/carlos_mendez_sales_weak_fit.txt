@@ -1,0 +1,30 @@
+Carlos Mendez
+Sales Account Manager
+carlos.mendez.demo@example.com | (555) 908-1123 | Miami, FL
+
+SUMMARY
+Results-driven Sales Account Manager with 6 years of experience managing B2B
+client relationships and exceeding revenue targets in the hospitality software
+industry. Skilled in negotiation, CRM management, and client retention.
+
+EXPERIENCE
+
+Senior Account Manager, HospitalityPro Software — 2020 - Present
+- Manage a portfolio of 40+ enterprise hospitality clients
+- Negotiate contract renewals, achieving 95% client retention rate
+- Use Salesforce CRM to track pipeline and forecast quarterly revenue
+- Collaborate with customer success and marketing teams on upsell campaigns
+- Presented quarterly business reviews to C-level client stakeholders
+
+Account Executive, Coastal Hotel Supplies — 2018 - 2020
+- Built new business pipeline through cold outreach and networking events
+- Achieved 120% of annual sales quota in 2019
+- Managed customer onboarding and relationship management using Salesforce
+
+SKILLS
+Salesforce, Negotiation, Client Relationship Management, CRM, Communication,
+Presentation Skills, Public Speaking, Customer Service, Teamwork,
+Stakeholder Management
+
+EDUCATION
+Bachelor of Business Administration, Florida International University — 2017

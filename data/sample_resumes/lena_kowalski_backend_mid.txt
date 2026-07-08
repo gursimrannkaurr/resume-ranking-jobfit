@@ -1,0 +1,30 @@
+Lena Kowalski
+Backend Engineer
+lena.kowalski.demo@example.com | (555) 883-4471 | Seattle, WA
+
+SUMMARY
+Backend Engineer with 4 years of experience building REST APIs and services in
+Python and Node.js. Comfortable working across the stack from database schema
+design to Docker-based deployment.
+
+EXPERIENCE
+
+Backend Engineer, Northgate Software — Aug 2022 - Present
+- Built REST APIs using FastAPI and Node.js/Express for an internal tools platform
+- Designed PostgreSQL schemas and optimized slow queries
+- Containerized services with Docker and deployed to AWS ECS
+- Wrote unit tests with pytest and Jest, integrated into GitHub Actions CI/CD
+- Participated in code reviews and sprint planning (Agile/Scrum)
+
+Software Engineer, Fenwick Digital — Jun 2020 - Jul 2022
+- Developed backend services in Node.js/Express with MongoDB
+- Built internal REST APIs consumed by the frontend React team
+- Set up basic CI pipelines using Jenkins
+
+SKILLS
+Python, FastAPI, Node.js, Express.js, PostgreSQL, MongoDB, Docker, AWS, REST API,
+Git, GitHub Actions, Jenkins, pytest, Jest, Agile, Scrum, Problem Solving,
+Collaboration
+
+EDUCATION
+Bachelor of Science in Computer Science, University of Washington — 2020
