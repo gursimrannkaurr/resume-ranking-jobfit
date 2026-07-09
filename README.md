@@ -71,7 +71,20 @@ overall_score = 100 * (
 
 All four weights are adjustable live in the UI via sliders, which call
 `/api/rerank` to recompute scores from already-extracted data without re-uploading
-files. Full formula and a worked numeric example: `docs/ARCHITECTURE.md`.
+files.
+
+**Worked example** — a candidate with `similarity=0.8`, `skill_overlap=0.6`,
+`experience_fit=0.5`, `education_fit=1.0` and default weights:
+
+```
+overall_score = 100 * (0.4*0.8 + 0.3*0.6 + 0.2*0.5 + 0.1*1.0) / 1.0
+              = 100 * (0.32 + 0.18 + 0.10 + 0.10)
+              = 70.0
+```
+
+This exact example is covered by
+`tests/test_scoring.py::test_weighted_score_default_weights_worked_example`.
+Sub-component formulas and the full API contract: `docs/ARCHITECTURE.md`.
 
 ## Local Setup
 
@@ -176,3 +189,11 @@ resume-ranking-jobfit/
   with breakdown panel expanded]`).
 - Before deploying to Vercel, initialize git (`git init`, commit, push) — this
   project was intentionally left without a git repo per the build instructions.
+
+---
+
+<div align="center">
+
+Part of [Gursimran Kaur's](https://github.com/gursimrannkaurr) portfolio · [← Back to profile](https://github.com/gursimrannkaurr/gursimrannkaurr)
+
+</div>
