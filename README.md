@@ -1,5 +1,11 @@
 # Resume Ranking & Job-Fit Scoring Tool
 
+![Python](https://img.shields.io/badge/Python-3.12-FF00A0?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tests](https://img.shields.io/badge/tests-43%20passing-FF4ECD?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-FF4ECD?style=flat-square)
+
 An end-to-end tool that scores and ranks a batch of resumes against a target job
 description. It combines TF-IDF + cosine similarity text relevance with rule-based
 entity extraction (skills, years of experience, education level) into a single,
